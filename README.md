@@ -14,7 +14,7 @@ Enforces business rules (e.g., max 3 devices per user)
 Factory Abstraction
 
 RepositoryFactory switches between storage backends
-
+ 
 Currently supports in-memory with stubs for filesystem/DB
 
 Test Coverage
